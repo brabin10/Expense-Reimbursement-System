@@ -46,9 +46,29 @@ Note: You will need to install Java 8 or above
 * Recommend using postman for testing the endpoints to see it fully functional
 * Enjoy!
 
+# Use Case
+![imgs](use-case.jpg)
+
+# Activity
+![imgs](activity.jpg)
+
 # ERD
 
 ![img](img/7.png)
+
+# Login Page
+
+![img](1.png)
+
+# Finance Manager
+
+![img](2.png)
+
+# Employee Dashboard
+
+![img](3.png)
+![img](5.png)
+![img](6.png)
 
 # License
 Licensed under the [MIT License](LICENSE)
