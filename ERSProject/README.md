@@ -46,6 +46,10 @@ Note: You will need to install Java 8 or above
 * Recommend using postman for testing the endpoints to see it fully functional
 * Enjoy!
 
+# ERD
+
+![img](7.png)
+
 # License
 Licensed under the [MIT License](LICENSE)
 
