@@ -33,7 +33,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 # Getting Started
 Note: You will need to install Java 8 or above
 * From terminal, cd to directory where project will be located
-* git clone repository 
+* git clone repository https://github.com/brabin10/Project1/tree/main/ERSProject
 * git pull
 
 
