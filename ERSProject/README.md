@@ -48,7 +48,7 @@ Note: You will need to install Java 8 or above
 
 # ERD
 
-![img](7.png)
+![img](img/7.png)
 
 # License
 Licensed under the [MIT License](LICENSE)
