@@ -47,10 +47,10 @@ Note: You will need to install Java 8 or above
 * Enjoy!
 
 # Use Case
-![imgs](use-case.jpg)
+![imgs](imgs/use-case.jpg)
 
 # Activity
-![imgs](activity.jpg)
+![imgs](imgs/activity.jpg)
 
 # ERD
 
@@ -58,17 +58,17 @@ Note: You will need to install Java 8 or above
 
 # Login Page
 
-![img](1.png)
+![img](img/1.png)
 
 # Finance Manager
 
-![img](2.png)
+![img](img/2.png)
 
 # Employee Dashboard
 
-![img](3.png)
-![img](5.png)
-![img](6.png)
+![img](img/3.png)
+![img](img/5.png)
+![img](img/6.png)
 
 # License
 Licensed under the [MIT License](LICENSE)
