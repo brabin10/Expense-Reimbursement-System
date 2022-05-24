@@ -47,6 +47,6 @@ Note: You will need to install Java 8 or above
 * Enjoy!
 
 # License
-Licensed under the [MIT License] (LICENSE).
+Licensed under the [MIT License](LICENSE)
 
 
