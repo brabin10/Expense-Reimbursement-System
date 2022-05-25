@@ -14,6 +14,7 @@ The Expense Reimbursement System (ERS) will manage the process of reimbursing em
 * JUnit - version 5.8
 * DBeaver - version 22.0.2
 * PostgreSQL - version 42.3
+* Maven - version 1.8
 * AWS RDS
 
 
