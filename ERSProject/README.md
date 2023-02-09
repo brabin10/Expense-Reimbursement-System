@@ -71,6 +71,8 @@ Note: You will need to install Java 8 or above
 ![img](img/5.png)
 ![img](img/6.png)
 
+# Contributor
+Rabin Basnet
 # License
 Licensed under the [MIT License](LICENSE)
 
